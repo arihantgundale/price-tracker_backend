@@ -1,0 +1,101 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Maharashtra,Pune,Pune,Grapes,Other,Local,01/09/2025,7000,15000,11000,22
+Maharashtra,Pune,Pune,Bajra(Pearl Millet/Cumbu),Other,FAQ,01/09/2025,3200,3600,3400,28
+Maharashtra,Pune,Pune(Moshi),Banana,Other,Local,01/09/2025,3000,8000,5500,19
+Maharashtra,Pune,Pune(Moshi),Orange,Other,Local,01/09/2025,7000,7000,7000,18
+Maharashtra,Pune,Pune(Manjri),Brinjal,Other,Local,01/09/2025,2000,4000,3000,35
+Maharashtra,Pune,Khed,Coriander(Leaves),Other,Local,01/09/2025,300,700,500,43
+Maharashtra,Pune,Manchar,Coriander(Leaves),Other,Local,01/09/2025,700,1551,1125,43
+Maharashtra,Pune,Pune(Moshi),Coriander(Leaves),Other,Local,01/09/2025,10,15,13,43
+Maharashtra,Pune,Pune(Pimpri),Coriander(Leaves),Other,Local,01/09/2025,6,7,7,43
+Maharashtra,Pune,Manchar,Ginger(Green),Other,Local,01/09/2025,3000,5700,4400,103
+Maharashtra,Pune,Pune,Grapes,Other,Local,02/09/2025,10000,17500,13700,22
+Maharashtra,Pune,Shirur,Groundnut,Other,Non-FAQ,02/09/2025,3500,3500,3500,10
+Maharashtra,Pune,Baramati,Soyabean,Yellow,Non-FAQ,02/09/2025,3500,4450,4450,13
+Maharashtra,Pune,Pune,Bengal Gram(Gram)(Whole),Other,FAQ,02/09/2025,7800,8200,8000,6
+Maharashtra,Pune,Pune,Apple,Other,Local,02/09/2025,4000,12000,8000,17
+Maharashtra,Pune,Shirur,Green Gram (Moong)(Whole),Other,Non-FAQ,02/09/2025,5500,8100,7500,9
+Maharashtra,Pune,Pune,Pineapple,Other,Local,02/09/2025,600,3300,1900,21
+Maharashtra,Pune,Khed(Chakan),Guar,Other,Local,02/09/2025,3000,6000,4500,75
+Maharashtra,Pune,Pune,Guar,Other,Local,02/09/2025,2000,7000,4500,75
+Maharashtra,Pune,Manchar,Cucumbar(Kheera),Other,Local,02/09/2025,700,1300,1000,159
+Maharashtra,Pune,Shirur,Wheat,Other,FAQ,03/09/2025,2750,2750,2750,1
+Maharashtra,Pune,Pune,Orange,Other,Local,03/09/2025,800,5000,2900,18
+Maharashtra,Pune,Junnar(Otur),Brinjal,Other,Local,03/09/2025,2000,3250,2600,35
+Maharashtra,Pune,Manchar,Brinjal,Other,Local,03/09/2025,1600,3000,2300,35
+Maharashtra,Pune,Pune,Brinjal,Other,Local,03/09/2025,1500,3500,2500,35
+Maharashtra,Pune,Pune(Manjri),Coriander(Leaves),Other,Local,03/09/2025,5,10,8,43
+Maharashtra,Pune,Manchar,Ginger(Green),Other,Local,03/09/2025,1900,5500,3700,103
+Maharashtra,Pune,Pune,Cucumbar(Kheera),Other,Local,03/09/2025,700,1500,1100,159
+Maharashtra,Pune,Pune(Pimpri),Cucumbar(Kheera),Other,Local,03/09/2025,1200,2000,1600,159
+Maharashtra,Pune,Khed(Chakan),Bhindi(Ladies Finger),Other,Local,03/09/2025,2500,4000,3000,85
+Maharashtra,Pune,Pune,Grapes,Other,Local,04/09/2025,10000,15000,12500,22
+Maharashtra,Pune,Baramati,Wheat,Maharashtra 2189,FAQ,04/09/2025,2550,3011,2800,1
+Maharashtra,Pune,Baramati,Green Gram (Moong)(Whole),Other,FAQ,04/09/2025,8890,13100,12000,9
+Maharashtra,Pune,Pune(Manjri),Guar,Other,Local,04/09/2025,5000,7500,6000,75
+Maharashtra,Pune,Khed,Cucumbar(Kheera),Other,Local,04/09/2025,1000,2000,1500,159
+Maharashtra,Pune,Pune(Manjri),Methi(Leaves),Other,Local,04/09/2025,7,15,10,46
+Maharashtra,Pune,Khed(Chakan),Onion,Other,Local,04/09/2025,1000,1700,1400,23
+Maharashtra,Pune,Pune(Khadiki),Onion,Local,Local,04/09/2025,800,1500,1150,23
+Maharashtra,Pune,Pune(Manjri),Onion,Local,Local,04/09/2025,500,1400,1000,23
+Maharashtra,Pune,Pune(Moshi),Garlic,Other,Local,04/09/2025,4000,7000,5500,25
+Maharashtra,Pune,Pune,Apple,Other,Local,05/09/2025,4000,15000,9500,17
+Maharashtra,Pune,Shirur,Wheat,Other,FAQ,05/09/2025,2600,2700,2700,1
+Maharashtra,Pune,Pune(Moshi),Pineapple,Other,Local,05/09/2025,5000,5000,5000,21
+Maharashtra,Pune,Pune(Manjri),Cucumbar(Kheera),Other,Local,05/09/2025,1000,2000,1500,159
+Maharashtra,Pune,Pune(Moshi),Peas Wet,Other,Local,05/09/2025,6000,6000,6000,174
+Maharashtra,Pune,Junnar(Narayangaon),Methi(Leaves),Other,Local,05/09/2025,901,3001,2201,46
+Maharashtra,Pune,Pune(Moshi),Chilly Capsicum,Other,Local,05/09/2025,3000,4000,3500,88
+Maharashtra,Pune,Junnar(Otur),Green Chilli,Other,Local,05/09/2025,3000,5260,4000,87
+Maharashtra,Pune,Shirur,Bajra(Pearl Millet/Cumbu),Other,FAQ,05/09/2025,2800,2800,2800,28
+Maharashtra,Pune,Shirur,Bajra(Pearl Millet/Cumbu),Other,Non-FAQ,05/09/2025,2300,2750,2650,28
+Maharashtra,Pune,Pune(Moshi),Apple,Other,Local,06/09/2025,10000,10000,10000,17
+Maharashtra,Pune,Pune(Manjri),Guar,Other,Local,06/09/2025,5000,8000,7000,75
+Maharashtra,Pune,Pune(Pimpri),Cucumbar(Kheera),Other,Local,06/09/2025,1000,2000,1500,159
+Maharashtra,Pune,Pune(Moshi),Drumstick,Other,Local,06/09/2025,5000,5000,5000,168
+Maharashtra,Pune,Pune(Moshi),Garlic,Other,Local,06/09/2025,6000,7000,6500,25
+Maharashtra,Pune,Pune(Manjri),Drumstick,Other,Local,06/09/2025,4000,5000,4500,168
+Maharashtra,Pune,Pune(Moshi),Seetapal,Other,Local,06/09/2025,6000,6000,6000,201
+Maharashtra,Pune,Pune(Pimpri),Coriander(Leaves),Other,Local,06/09/2025,6,9,8,43
+Maharashtra,Pune,Pune(Manjri),Green Peas,Other,Local,06/09/2025,10000,12000,11000,50
+Maharashtra,Pune,Manchar,Coriander(Leaves),Other,Local,06/09/2025,1500,3860,2700,43
+Maharashtra,Pune,Shirur,Wheat,Other,Non-FAQ,07/09/2025,2400,2400,2400,1
+Maharashtra,Pune,Shirur,Bajra(Pearl Millet/Cumbu),Other,Non-FAQ,07/09/2025,2100,2750,2700,28
+Maharashtra,Pune,Junnar(Otur),Brinjal,Other,Local,07/09/2025,1000,3000,2200,35
+Maharashtra,Pune,Pune(Pimpri),Brinjal,Other,Local,07/09/2025,4000,4000,4000,35
+Maharashtra,Pune,Manchar,Coriander(Leaves),Other,Local,07/09/2025,1000,2890,1945,43
+Maharashtra,Pune,Junnar(Narayangaon),Cucumbar(Kheera),Other,Local,07/09/2025,300,2000,1300,159
+Maharashtra,Pune,Pune(Pimpri),Cucumbar(Kheera),Other,Local,07/09/2025,1500,2500,2000,159
+Maharashtra,Pune,Manchar,Green Chilli,Other,Local,07/09/2025,3200,6000,4600,87
+Maharashtra,Pune,Khed(Chakan),Cabbage,Other,Local,07/09/2025,700,1200,900,154
+Maharashtra,Pune,Junnar(Narayangaon),Carrot,Other,Local,07/09/2025,1500,2800,2200,153
+Maharashtra,Pune,Baramati,Rice,Other,Local,08/09/2025,2000,2000,2000,3
+Maharashtra,Pune,Pune,Bengal Gram(Gram)(Whole),Other,FAQ,08/09/2025,7800,8300,8050,6
+Maharashtra,Pune,Pune(Moshi),Apple,Other,Local,08/09/2025,10000,10000,10000,17
+Maharashtra,Pune,Baramati,Wheat,Kalyan,FAQ,08/09/2025,2425,2705,2680,1
+Maharashtra,Pune,Pune,Green Gram (Moong)(Whole),Green (Whole),FAQ,08/09/2025,9000,9800,9400,9
+Maharashtra,Pune,Baramati,Wheat,Kalyan,Non-FAQ,08/09/2025,2000,2400,2380,1
+Maharashtra,Pune,Pune,Guar,Other,Local,08/09/2025,3000,7000,5000,75
+Maharashtra,Pune,Pune(Manjri),Guar,Other,Local,08/09/2025,5000,9000,7000,75
+Maharashtra,Pune,Khed,Cucumbar(Kheera),Other,Local,08/09/2025,1000,2000,1500,159
+Maharashtra,Pune,Pune(Moshi),Cucumbar(Kheera),Other,Local,08/09/2025,1000,2000,1500,159
+Maharashtra,Pune,Shirur,Maize,Other,Non-FAQ,09/09/2025,2300,2300,2300,4
+Maharashtra,Pune,Pune(Moshi),Orange,Other,Local,09/09/2025,5000,7000,6000,18
+Maharashtra,Pune,Pune,Wheat,Sharbati,FAQ,09/09/2025,4500,5200,4850,1
+Maharashtra,Pune,Shirur,Wheat,Other,FAQ,09/09/2025,2750,2750,2750,1
+Maharashtra,Pune,Pune,Water Melon,Other,Local,09/09/2025,1000,1500,1200,73
+Maharashtra,Pune,Khed(Chakan),Guar,Other,Local,09/09/2025,7000,8000,7500,75
+Maharashtra,Pune,Pune(Manjri),Guar,Other,Local,09/09/2025,4000,10000,7000,75
+Maharashtra,Pune,Pune(Manjri),Papaya,Other,Local,09/09/2025,4000,6000,5000,72
+Maharashtra,Pune,Pune(Pimpri),Cucumbar(Kheera),Other,Local,09/09/2025,1400,2000,1700,159
+Maharashtra,Pune,Pune,Peas Wet,Other,Local,09/09/2025,4000,10000,7000,174
+Maharashtra,Pune,Pune,Black Gram (Urd Beans)(Whole),Other,FAQ,10/09/2025,8800,9800,9300,8
+Maharashtra,Pune,Pune,Bengal Gram(Gram)(Whole),Other,FAQ,10/09/2025,7800,8200,8000,6
+Maharashtra,Pune,Pune(Manjri),Papaya,Other,Local,10/09/2025,4000,6000,5000,72
+Maharashtra,Pune,Khed(Chakan),Cucumbar(Kheera),Other,Local,10/09/2025,1000,1600,1300,159
+Maharashtra,Pune,Pune(Khadiki),Cucumbar(Kheera),Other,Local,10/09/2025,1000,1400,1200,159
+Maharashtra,Pune,Pune(Manjri),Cucumbar(Kheera),Other,Local,10/09/2025,1000,3000,2000,159
+Maharashtra,Pune,Pune(Pimpri),Cucumbar(Kheera),Other,Local,10/09/2025,1000,2000,1500,159
+Maharashtra,Pune,Pune,Peas Wet,Other,Local,10/09/2025,5000,14000,9500,174
+Maharashtra,Pune,Manchar,Methi(Leaves),Other,Local,10/09/2025,1000,2670,1900,46
+Maharashtra,Pune,Khed(Chakan),Carrot,Other,Local,10/09/2025,2000,3000,2500,153
